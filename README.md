@@ -34,7 +34,7 @@ Olá, meu nome é Edgar, sou um programador front end, atualmente estou aprenden
 <div>
 <a href="https://www.facebook.com/edgar.raphaeldesousa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"><a/>
 <a href="https://instagram.com/edgarraphaeldesousa?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/edgar-raphael-de-sousa-081157146" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/edgar-raphael-de-sousa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <div/>
 <br>
 
